@@ -1,0 +1,8 @@
+
+net.py expects one argument which is the input file.
+
+It can be run with Python version 2 or greater.
+
+Example running:
+
+    python net.py input1.txt
